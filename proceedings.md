@@ -11,7 +11,7 @@ feature_text: |
 ### **CALL FOR PAPERS – Adaptive Behavior**
 ## **Special issue: “Evolution of Cultural Complexity”**
 
-Download the pdf of the CfP [here](/assets/ECC17-CallForPaper.pdf)
+(Download the pdf of this CfP [here](/assets/ECC-CFP.pdf))
 
 From a global perspective the sociocultural evolution of humans has been
 a strong driving force throughout our shared history. From the invention
@@ -35,7 +35,7 @@ demographic factor, cognitive component to historical contingency, but
 we are far from reaching a consensus.
 
 This special issue follows on from the session **“Evolution of Cultural
-Complexity”** held at the _Conference on Complex System 2017_, where those
+Complexity”** held at the _Conference on Complex System (2017 & 2018)_, where those
 questions were discussed. However we also welcome submissions from
 authors who did not present. The submission can be of any of the types:
 original research article, review of the literature on the topic of the
@@ -74,13 +74,13 @@ and a Latex template
 
 **Timeline:**
 
-Submission deadline: **March 2018**
+Submission deadline: **November 2018**
 
-Reviewers’ feedback due: **May 2018**
+Reviewers’ feedback due: **Early 2019**
 
-Revised submissions due: **June 2018**
+Revised submissions due: **Early 2019**
 
-Publication date: **July 2018**
+Publication date: **TBA**
 
 **Guest Editors of the special issue:**
 
@@ -90,7 +90,7 @@ Barcelona)
 Simon Carrignon (Barcelona Supercomputing Center & Universitat Pompeu
 Fabra)
 
-**Organizers of the Satellite Session:**
+**Organizers of the 2017 Satellite Session:**
 
 María Coto-Sarmiento (Barcelona Supercomputing Center & Universitat de
 Barcelona)
@@ -104,7 +104,7 @@ Iza Romanowska (Barcelona Supercomputing Center)
 
 Xavier Rubio-Campillo (University of Edinburgh)
 
-**Contact: **[*ccs17  at bsc dot es*](mailto:ccs17@bsc.es)** **
+**Contact:** [*ccs17  at bsc dot es*](mailto:ccs17@bsc.es) 
 
-**Website:** [*ccs17.bsc.es*](http://ccs17.bsc.es)
+**Website:** [*ccs17.bsc.es/proceedings*](http://ccs17.bsc.es/proceedings)
 

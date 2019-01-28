@@ -9,10 +9,10 @@ feature_text: |
 
 {: style="color:red;"}
 #### Warnings!
-This page is the page associated to the satellite of the CCS 2017 in Cancun and the related proceedings.
-If you are interested to submitt an abstract to sattellite in CCS 2018 (Thessaloniki) please go to [this page](https://ccs18.bsc.es).
+This page is the one associated to the satellite at CCS 2017, Cancun and the related proceedings.
+If you are interested to submit an abstract to the satellite at CCS 2018 (Thessaloniki) please go to [this page](https://ccs18.bsc.es).
 
-### Proceedings | Call for Paper is now open
+### Proceedings | Call for Paper is open
 please see [this page](proceedings)
 
 ### Scientific Background
