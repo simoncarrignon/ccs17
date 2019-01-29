@@ -11,7 +11,7 @@ feature_text: |
 ### **CALL FOR PAPERS – Adaptive Behavior**
 ## **Special issue: “Evolution of Cultural Complexity”**
 
-(Download the pdf of this CfP [here](/assets/ECC-CFP.pdf))
+(Download the pdf of this CfP [here](/ccs17/assets/ECC-CFP.pdf))
 
 From a global perspective the sociocultural evolution of humans has been
 a strong driving force throughout our shared history. From the invention
